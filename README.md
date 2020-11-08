@@ -6,9 +6,7 @@
     <h2>Apa Itu Programmer?</h2>
     <p><i>Programmer</i> adalah seseorang yang memiliki kemampuan atau </i>skill</i> menulis dan merancang kode program-program (syntax) komputer menggunakan bahasa-bahasa pemrograman komputer (HTML, PHP, dll).</p>
 <p>Semua aplikasi atau OS (<i>Operating System</i>) yang kita gunakan setiap hari baik itu aplikasi mobile (Android/iOS), website, dan desktop dibuat menggunakan bahasa pemrograman tertentu.</p>
-  </body>
-</html>
-  
+ 
   
   
   
